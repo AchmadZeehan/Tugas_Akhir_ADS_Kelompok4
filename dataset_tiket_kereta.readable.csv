@@ -1,0 +1,201 @@
+S.no.,Nama Kereta,Stasiun Asal,Stasiun Tujuan,Tanggal Berangkat,Jam Berangkat,Kelas,Harga Tiket,Kursi Tersedia,Status,Tahun Operasional,Umur Kereta Tahun
+0,Turangga,Bandung,Surabaya Gubeng,2026-06-11,13:00,Eksekutif,348000,62,Tersedia,1995,31
+1,Argo Parahyangan,Gambir,Bandung,2026-06-12,16:00,Eksekutif,268000,72,Tersedia,1998,28
+2,Majapahit,Pasar Senen,Malang,2026-06-14,15:00,Ekonomi,163000,161,Tersedia,2008,18
+3,Bangunkarta,Pasar Senen,Surabaya Pasar Turi,2026-06-25,06:00,Eksekutif,364000,64,Tersedia,2003,23
+4,Kertajaya,Pasar Senen,Surabaya Pasar Turi,2026-06-17,19:00,Ekonomi,176000,159,Tersedia,2000,26
+5,Logawa,Purwokerto,Jember,2026-06-13,14:00,Ekonomi,113000,171,Tersedia,2004,22
+6,Kutojaya Selatan,Pasar Senen,Kutoarjo,2026-06-17,08:00,Ekonomi,105000,172,Tersedia,2005,21
+7,Gajahwong,Pasar Senen,Yogyakarta,2026-06-18,10:00,Ekonomi,115000,162,Tersedia,2005,21
+8,Wijayakusuma,Cilacap,Surabaya Gubeng,2026-06-28,05:00,Eksekutif,341000,55,Tersedia,1996,30
+9,Bima,Gambir,Surabaya Gubeng,2026-06-13,17:00,Eksekutif,510000,58,Tersedia,1967,59
+10,Malioboro Express,Malang,Yogyakarta,2026-06-29,17:00,Bisnis,243000,71,Tersedia,2010,16
+11,Argo Parahyangan,Gambir,Bandung,2026-06-17,10:00,Eksekutif,250000,71,Tersedia,1998,28
+12,Wijayakusuma,Cilacap,Surabaya Gubeng,2026-06-30,17:00,Eksekutif,345000,68,Tersedia,1996,30
+13,Malabar,Bandung,Malang,2026-06-18,22:00,Bisnis,335000,80,Tersedia,2003,23
+14,Wijayakusuma,Cilacap,Surabaya Gubeng,2026-06-29,05:00,Eksekutif,348000,58,Tersedia,1996,30
+15,Sembrani,Gambir,Surabaya Pasar Turi,2026-06-09,08:00,Eksekutif,405000,54,Tersedia,1995,31
+16,Argo Wilis,Bandung,Surabaya Gubeng,2026-06-20,21:00,Eksekutif,481000,80,Tersedia,1998,28
+17,Taksaka,Gambir,Yogyakarta,2026-06-13,17:00,Eksekutif,393000,57,Tersedia,1997,29
+18,Baturraden Express,Purwokerto,Gambir,2026-06-25,09:30,Eksekutif,275000,80,Tersedia,2021,5
+19,Baturraden Express,Purwokerto,Gambir,2026-06-22,12:00,Eksekutif,273000,63,Tersedia,2021,5
+20,Logawa,Purwokerto,Jember,2026-06-02,07:30,Ekonomi,108000,174,Tersedia,2004,22
+21,Manahan,Gambir,Solo Balapan,2026-06-06,12:00,Eksekutif,472000,74,Tersedia,2021,5
+22,Harina,Bandung,Semarang Tawang,2026-06-27,19:00,Bisnis,262000,118,Tersedia,2003,23
+23,Pasundan,Kiaracondong,Surabaya Gubeng,2026-06-28,17:00,Ekonomi,121000,169,Tersedia,2001,25
+24,Taksaka,Gambir,Yogyakarta,2026-06-29,20:00,Eksekutif,383000,72,Tersedia,1997,29
+25,Harina,Bandung,Semarang Tawang,2026-06-24,06:00,Bisnis,296000,76,Tersedia,2003,23
+26,Majapahit,Pasar Senen,Malang,2026-06-28,17:30,Ekonomi,180000,147,Tersedia,2008,18
+27,Kertajaya,Pasar Senen,Surabaya Pasar Turi,2026-06-03,20:00,Ekonomi,176000,140,Tersedia,2000,26
+28,Argo Parahyangan,Gambir,Bandung,2026-06-21,12:00,Eksekutif,233000,63,Tersedia,1998,28
+29,Pasundan,Kiaracondong,Surabaya Gubeng,2026-06-25,16:00,Ekonomi,121000,121,Tersedia,2001,25
+30,Kutojaya Selatan,Pasar Senen,Kutoarjo,2026-06-21,22:00,Ekonomi,110000,175,Tersedia,2005,21
+31,Matarmaja,Pasar Senen,Malang,2026-06-08,10:00,Ekonomi,145000,152,Tersedia,1992,34
+32,Baturraden Express,Purwokerto,Gambir,2026-06-14,09:30,Eksekutif,280000,76,Tersedia,2021,5
+33,Argo Wilis,Bandung,Surabaya Gubeng,2026-06-08,06:00,Eksekutif,479000,75,Tersedia,1998,28
+34,Sembrani,Gambir,Surabaya Pasar Turi,2026-06-04,17:30,Eksekutif,436000,65,Tersedia,1995,31
+35,Sembrani,Gambir,Surabaya Pasar Turi,2026-06-25,15:00,Eksekutif,427000,51,Tersedia,1995,31
+36,Gajayana,Gambir,Malang,2026-06-04,17:30,Eksekutif,517000,66,Tersedia,1999,27
+37,Sancaka,Yogyakarta,Surabaya Gubeng,2026-06-30,16:00,Bisnis,238000,70,Tersedia,1997,29
+38,Baturraden Express,Purwokerto,Gambir,2026-06-29,13:00,Eksekutif,276000,77,Tersedia,2021,5
+39,Harina,Bandung,Semarang Tawang,2026-06-07,18:00,Bisnis,269000,98,Tersedia,2003,23
+40,Kamandaka,Purwokerto,Semarang Tawang,2026-06-21,10:00,Bisnis,128000,90,Tersedia,2010,16
+41,Kertanegara,Purwokerto,Malang,2026-06-15,08:00,Eksekutif,292000,76,Tersedia,2019,7
+42,Progo,Pasar Senen,Yogyakarta,2026-06-04,09:00,Ekonomi,153000,148,Tersedia,1992,34
+43,Manahan,Gambir,Solo Balapan,2026-06-21,09:30,Eksekutif,443000,67,Tersedia,2021,5
+44,Logawa,Purwokerto,Jember,2026-06-02,21:00,Ekonomi,76000,174,Tersedia,2004,22
+45,Kertajaya,Pasar Senen,Surabaya Pasar Turi,2026-06-22,12:00,Ekonomi,172000,190,Tersedia,2000,26
+46,Sawunggalih,Pasar Senen,Kutoarjo,2026-06-30,07:30,Bisnis,169000,102,Tersedia,2000,26
+47,Turangga,Bandung,Surabaya Gubeng,2026-06-21,19:00,Eksekutif,335000,61,Tersedia,1995,31
+48,Malabar,Bandung,Malang,2026-06-18,11:00,Bisnis,325000,76,Tersedia,2003,23
+49,Gajayana,Gambir,Malang,2026-06-16,16:00,Eksekutif,525000,79,Tersedia,1999,27
+50,Gajahwong,Pasar Senen,Yogyakarta,2026-06-21,09:30,Ekonomi,148000,153,Tersedia,2005,21
+51,Bima,Gambir,Surabaya Gubeng,2026-06-02,22:00,Eksekutif,497000,60,Tersedia,1967,59
+52,Senja Utama Solo,Pasar Senen,Solo Balapan,2026-06-30,22:00,Ekonomi,130000,161,Tersedia,1988,38
+53,Gajahwong,Pasar Senen,Yogyakarta,2026-06-29,10:00,Ekonomi,111000,146,Tersedia,2005,21
+54,Argo Lawu,Gambir,Solo Balapan,2026-06-01,10:00,Eksekutif,424000,55,Tersedia,1997,29
+55,Bima,Gambir,Surabaya Gubeng,2026-06-28,10:00,Eksekutif,513000,75,Tersedia,1967,59
+56,Sawunggalih,Pasar Senen,Kutoarjo,2026-06-26,07:00,Bisnis,201000,75,Tersedia,2000,26
+57,Matarmaja,Pasar Senen,Malang,2026-06-19,10:00,Ekonomi,142000,177,Tersedia,1992,34
+58,Argo Wilis,Bandung,Surabaya Gubeng,2026-06-16,20:00,Eksekutif,463000,71,Tersedia,1998,28
+59,Kahuripan,Pasar Senen,Blitar,2026-06-11,19:00,Ekonomi,180000,140,Tersedia,2005,21
+60,Sancaka,Yogyakarta,Surabaya Gubeng,2026-06-03,18:00,Bisnis,240000,111,Tersedia,1997,29
+61,Sembrani,Gambir,Surabaya Pasar Turi,2026-06-26,20:00,Eksekutif,409000,67,Tersedia,1995,31
+62,Kertajaya,Pasar Senen,Surabaya Pasar Turi,2026-06-23,12:00,Ekonomi,175000,198,Tersedia,2000,26
+63,Mutiara Selatan,Bandung,Surabaya Gubeng,2026-06-04,21:00,Bisnis,288000,83,Tersedia,1970,56
+64,Bogowonto,Pasar Senen,Yogyakarta,2026-06-04,20:00,Bisnis,184000,99,Tersedia,2006,20
+65,Sembrani,Gambir,Surabaya Pasar Turi,2026-06-03,19:00,Eksekutif,407000,70,Tersedia,1995,31
+66,Joglosemarkerto,Solo Balapan,Semarang Tawang,2026-06-14,15:00,Eksekutif,145000,69,Tersedia,2020,6
+67,Argo Wilis,Bandung,Surabaya Gubeng,2026-06-27,14:00,Eksekutif,463000,61,Tersedia,1998,28
+68,Fajar Utama Yogya,Pasar Senen,Yogyakarta,2026-06-27,10:00,Bisnis,152000,110,Tersedia,2004,22
+69,Serayu,Pasar Senen,Purwokerto,2026-06-04,09:30,Ekonomi,85000,137,Tersedia,2003,23
+70,Malioboro Express,Malang,Yogyakarta,2026-06-05,14:00,Bisnis,264000,82,Tersedia,2010,16
+71,Gajahwong,Pasar Senen,Yogyakarta,2026-06-18,07:30,Ekonomi,138000,189,Tersedia,2005,21
+72,Argo Lawu,Gambir,Solo Balapan,2026-06-01,09:00,Eksekutif,436000,52,Tersedia,1997,29
+73,Turangga,Bandung,Surabaya Gubeng,2026-06-21,13:00,Eksekutif,362000,65,Tersedia,1995,31
+74,Lodaya,Bandung,Solo Balapan,2026-06-27,21:00,Bisnis,188000,78,Tersedia,1995,31
+75,Joglosemarkerto,Solo Balapan,Semarang Tawang,2026-06-18,10:00,Eksekutif,131000,69,Tersedia,2020,6
+76,Bima,Gambir,Surabaya Gubeng,2026-06-23,13:00,Eksekutif,484000,63,Tersedia,1967,59
+77,Taksaka,Gambir,Yogyakarta,2026-06-05,16:00,Eksekutif,390000,64,Tersedia,1997,29
+78,Malabar,Bandung,Malang,2026-06-08,22:00,Bisnis,329000,96,Tersedia,2003,23
+79,Fajar Utama Yogya,Pasar Senen,Yogyakarta,2026-06-03,16:00,Bisnis,145000,102,Tersedia,2004,22
+80,Sembrani,Gambir,Surabaya Pasar Turi,2026-06-21,17:00,Eksekutif,410000,78,Tersedia,1995,31
+81,Argo Parahyangan,Gambir,Bandung,2026-06-12,12:00,Eksekutif,239000,53,Tersedia,1998,28
+82,Serayu,Pasar Senen,Purwokerto,2026-06-18,15:00,Ekonomi,106000,178,Tersedia,2003,23
+83,Taksaka,Gambir,Yogyakarta,2026-06-02,05:00,Eksekutif,403000,79,Tersedia,1997,29
+84,Dharmawangsa,Pasar Senen,Surabaya Pasar Turi,2026-06-25,06:00,Ekonomi,184000,189,Tersedia,2007,19
+85,Kamandaka,Purwokerto,Semarang Tawang,2026-06-28,18:00,Bisnis,147000,98,Tersedia,2010,16
+86,Dharmawangsa,Pasar Senen,Surabaya Pasar Turi,2026-06-07,06:00,Ekonomi,192000,177,Tersedia,2007,19
+87,Gajahwong,Pasar Senen,Yogyakarta,2026-06-26,07:00,Ekonomi,132000,162,Tersedia,2005,21
+88,Sancaka,Yogyakarta,Surabaya Gubeng,2026-06-12,13:00,Bisnis,222000,71,Tersedia,1997,29
+89,Fajar Utama Yogya,Pasar Senen,Yogyakarta,2026-06-08,18:00,Bisnis,166000,75,Tersedia,2004,22
+90,Sawunggalih,Pasar Senen,Kutoarjo,2026-06-19,16:00,Bisnis,204000,81,Tersedia,2000,26
+91,Pasundan,Kiaracondong,Surabaya Gubeng,2026-06-20,21:00,Ekonomi,107000,143,Tersedia,2001,25
+92,Taksaka,Gambir,Yogyakarta,2026-06-30,15:00,Eksekutif,414000,69,Tersedia,1997,29
+93,Bangunkarta,Pasar Senen,Surabaya Pasar Turi,2026-06-03,20:00,Eksekutif,392000,60,Tersedia,2003,23
+94,Malioboro Express,Malang,Yogyakarta,2026-06-19,14:00,Bisnis,272000,106,Tersedia,2010,16
+95,Bangunkarta,Pasar Senen,Surabaya Pasar Turi,2026-06-09,17:30,Eksekutif,399000,73,Tersedia,2003,23
+96,Argo Lawu,Gambir,Solo Balapan,2026-06-25,08:00,Eksekutif,426000,69,Tersedia,1997,29
+97,Serayu,Pasar Senen,Purwokerto,2026-06-01,08:00,Ekonomi,79000,147,Tersedia,2003,23
+98,Jayabaya,Pasar Senen,Malang,2026-06-06,15:00,Ekonomi,211000,179,Tersedia,1976,50
+99,Lodaya,Bandung,Solo Balapan,2026-06-30,19:00,Bisnis,189000,100,Tersedia,1995,31
+100,Manahan,Gambir,Solo Balapan,2026-06-26,10:00,Eksekutif,444000,78,Tersedia,2021,5
+101,Argo Lawu,Gambir,Solo Balapan,2026-06-03,06:00,Eksekutif,437000,56,Tersedia,1997,29
+102,Kertajaya,Pasar Senen,Surabaya Pasar Turi,2026-06-20,16:00,Ekonomi,199000,187,Tersedia,2000,26
+103,Gajayana,Gambir,Malang,2026-06-24,12:00,Eksekutif,506000,76,Tersedia,1999,27
+104,Turangga,Bandung,Surabaya Gubeng,2026-06-29,18:00,Eksekutif,348000,63,Tersedia,1995,31
+105,Sembrani,Gambir,Surabaya Pasar Turi,2026-06-08,09:00,Eksekutif,409000,61,Tersedia,1995,31
+106,Bima,Gambir,Surabaya Gubeng,2026-06-06,10:00,Eksekutif,504000,67,Tersedia,1967,59
+107,Bangunkarta,Pasar Senen,Surabaya Pasar Turi,2026-06-02,17:30,Eksekutif,386000,58,Tersedia,2003,23
+108,Malabar,Bandung,Malang,2026-06-19,10:00,Bisnis,312000,103,Tersedia,2003,23
+109,Matarmaja,Pasar Senen,Malang,2026-06-17,07:00,Ekonomi,132000,184,Tersedia,1992,34
+110,Majapahit,Pasar Senen,Malang,2026-06-30,17:00,Ekonomi,181000,136,Tersedia,2008,18
+111,Malabar,Bandung,Malang,2026-06-24,19:00,Bisnis,323000,100,Tersedia,2003,23
+112,Senja Utama Solo,Pasar Senen,Solo Balapan,2026-06-05,10:00,Ekonomi,164000,155,Tersedia,1988,38
+113,Kutojaya Selatan,Pasar Senen,Kutoarjo,2026-06-21,22:00,Ekonomi,90000,151,Tersedia,2005,21
+114,Fajar Utama Yogya,Pasar Senen,Yogyakarta,2026-06-22,09:30,Bisnis,146000,104,Tersedia,2004,22
+115,Taksaka,Gambir,Yogyakarta,2026-06-09,06:00,Eksekutif,408000,50,Tersedia,1997,29
+116,Argo Wilis,Bandung,Surabaya Gubeng,2026-06-19,12:00,Eksekutif,487000,54,Tersedia,1998,28
+117,Kutojaya Selatan,Pasar Senen,Kutoarjo,2026-06-20,10:00,Ekonomi,128000,125,Tersedia,2005,21
+118,Argo Semeru,Gambir,Surabaya Gubeng,2026-06-11,15:00,Eksekutif,582000,73,Tersedia,2022,4
+119,Sembrani,Gambir,Surabaya Pasar Turi,2026-06-08,22:00,Eksekutif,419000,56,Tersedia,1995,31
+120,Gajayana,Gambir,Malang,2026-06-02,08:00,Eksekutif,523000,77,Tersedia,1999,27
+121,Gajahwong,Pasar Senen,Yogyakarta,2026-06-17,17:00,Ekonomi,117000,152,Tersedia,2005,21
+122,Argo Semeru,Gambir,Surabaya Gubeng,2026-06-30,14:00,Eksekutif,596000,63,Tersedia,2022,4
+123,Progo,Pasar Senen,Yogyakarta,2026-06-07,20:00,Ekonomi,156000,133,Tersedia,1992,34
+124,Manahan,Gambir,Solo Balapan,2026-06-03,09:00,Eksekutif,444000,69,Tersedia,2021,5
+125,Baturraden Express,Purwokerto,Gambir,2026-06-01,21:00,Eksekutif,278000,74,Tersedia,2021,5
+126,Lodaya,Bandung,Solo Balapan,2026-06-20,20:00,Bisnis,217000,78,Tersedia,1995,31
+127,Gajahwong,Pasar Senen,Yogyakarta,2026-06-24,21:00,Ekonomi,138000,125,Tersedia,2005,21
+128,Argo Lawu,Gambir,Solo Balapan,2026-06-11,07:00,Eksekutif,444000,52,Tersedia,1997,29
+129,Malioboro Express,Malang,Yogyakarta,2026-06-27,15:00,Bisnis,263000,73,Tersedia,2010,16
+130,Fajar Utama Yogya,Pasar Senen,Yogyakarta,2026-06-17,05:00,Bisnis,180000,108,Tersedia,2004,22
+131,Argo Parahyangan,Gambir,Bandung,2026-06-06,12:00,Eksekutif,269000,60,Tersedia,1998,28
+132,Serayu,Pasar Senen,Purwokerto,2026-06-22,16:00,Ekonomi,75000,165,Tersedia,2003,23
+133,Jayabaya,Pasar Senen,Malang,2026-06-30,05:00,Ekonomi,201000,157,Tersedia,1976,50
+134,Joglosemarkerto,Solo Balapan,Semarang Tawang,2026-06-12,14:00,Eksekutif,149000,77,Tersedia,2020,6
+135,Lodaya,Bandung,Solo Balapan,2026-06-02,09:00,Bisnis,200000,76,Tersedia,1995,31
+136,Brantas,Pasar Senen,Kediri,2026-06-14,05:00,Ekonomi,163000,184,Tersedia,2002,24
+137,Taksaka,Gambir,Yogyakarta,2026-06-15,18:00,Eksekutif,414000,63,Tersedia,1997,29
+138,Jayabaya,Pasar Senen,Malang,2026-06-24,13:00,Ekonomi,204000,187,Tersedia,1976,50
+139,Brantas,Pasar Senen,Kediri,2026-06-03,12:00,Ekonomi,159000,131,Tersedia,2002,24
+140,Mutiara Selatan,Bandung,Surabaya Gubeng,2026-06-04,11:00,Bisnis,281000,112,Tersedia,1970,56
+141,Argo Bromo Anggrek,Gambir,Surabaya Pasar Turi,2026-06-01,05:00,Eksekutif,431000,77,Tersedia,1997,29
+142,Argo Lawu,Gambir,Solo Balapan,2026-06-19,21:00,Eksekutif,439000,52,Tersedia,1997,29
+143,Brantas,Pasar Senen,Kediri,2026-06-01,08:00,Ekonomi,173000,148,Tersedia,2002,24
+144,Sawunggalih,Pasar Senen,Kutoarjo,2026-06-10,22:00,Bisnis,170000,113,Tersedia,2000,26
+145,Manahan,Gambir,Solo Balapan,2026-06-20,18:00,Eksekutif,476000,58,Tersedia,2021,5
+146,Sancaka,Yogyakarta,Surabaya Gubeng,2026-06-29,06:00,Bisnis,231000,89,Tersedia,1997,29
+147,Joglosemarkerto,Solo Balapan,Semarang Tawang,2026-06-17,22:00,Eksekutif,132000,67,Tersedia,2020,6
+148,Kertajaya,Pasar Senen,Surabaya Pasar Turi,2026-06-20,17:00,Ekonomi,173000,159,Tersedia,2000,26
+149,Senja Utama Solo,Pasar Senen,Solo Balapan,2026-06-19,07:30,Ekonomi,130000,129,Tersedia,1988,38
+150,Taksaka,Gambir,Yogyakarta,2026-06-17,17:30,Eksekutif,387000,68,Tersedia,1997,29
+151,Sembrani,Gambir,Surabaya Pasar Turi,2026-06-13,07:30,Eksekutif,416000,72,Tersedia,1995,31
+152,Malabar,Bandung,Malang,2026-06-22,09:00,Bisnis,334000,112,Tersedia,2003,23
+153,Argo Wilis,Bandung,Surabaya Gubeng,2026-06-19,16:00,Eksekutif,471000,79,Tersedia,1998,28
+154,Argo Bromo Anggrek,Gambir,Surabaya Pasar Turi,2026-06-19,20:00,Eksekutif,437000,67,Tersedia,1997,29
+155,Majapahit,Pasar Senen,Malang,2026-06-01,11:00,Ekonomi,197000,194,Tersedia,2008,18
+156,Kamandaka,Purwokerto,Semarang Tawang,2026-06-27,07:30,Bisnis,143000,113,Tersedia,2010,16
+157,Kutojaya Selatan,Pasar Senen,Kutoarjo,2026-06-29,11:00,Ekonomi,93000,154,Tersedia,2005,21
+158,Brantas,Pasar Senen,Kediri,2026-06-01,06:00,Ekonomi,142000,126,Tersedia,2002,24
+159,Joglosemarkerto,Solo Balapan,Semarang Tawang,2026-06-06,06:00,Eksekutif,131000,56,Tersedia,2020,6
+160,Malabar,Bandung,Malang,2026-06-03,15:00,Bisnis,320000,72,Tersedia,2003,23
+161,Argo Wilis,Bandung,Surabaya Gubeng,2026-06-16,21:00,Eksekutif,453000,75,Tersedia,1998,28
+162,Kertajaya,Pasar Senen,Surabaya Pasar Turi,2026-06-26,21:00,Ekonomi,210000,171,Tersedia,2000,26
+163,Bangunkarta,Pasar Senen,Surabaya Pasar Turi,2026-06-24,22:00,Eksekutif,397000,63,Tersedia,2003,23
+164,Argo Wilis,Bandung,Surabaya Gubeng,2026-06-05,18:00,Eksekutif,473000,55,Tersedia,1998,28
+165,Fajar Utama Yogya,Pasar Senen,Yogyakarta,2026-06-25,09:30,Bisnis,150000,109,Tersedia,2004,22
+166,Kamandaka,Purwokerto,Semarang Tawang,2026-06-30,12:00,Bisnis,133000,89,Tersedia,2010,16
+167,Serayu,Pasar Senen,Purwokerto,2026-06-07,08:00,Ekonomi,105000,182,Tersedia,2003,23
+168,Majapahit,Pasar Senen,Malang,2026-06-23,06:00,Ekonomi,179000,200,Tersedia,2008,18
+169,Baturraden Express,Purwokerto,Gambir,2026-06-21,20:00,Eksekutif,262000,68,Tersedia,2021,5
+170,Kamandaka,Purwokerto,Semarang Tawang,2026-06-04,10:00,Bisnis,114000,101,Tersedia,2010,16
+171,Brantas,Pasar Senen,Kediri,2026-06-07,08:00,Ekonomi,174000,159,Tersedia,2002,24
+172,Kamandaka,Purwokerto,Semarang Tawang,2026-06-19,11:00,Bisnis,136000,120,Tersedia,2010,16
+173,Dharmawangsa,Pasar Senen,Surabaya Pasar Turi,2026-06-02,06:00,Ekonomi,218000,180,Tersedia,2007,19
+174,Kertajaya,Pasar Senen,Surabaya Pasar Turi,2026-06-25,22:00,Ekonomi,204000,189,Tersedia,2000,26
+175,Pasundan,Kiaracondong,Surabaya Gubeng,2026-06-02,07:00,Ekonomi,125000,158,Tersedia,2001,25
+176,Majapahit,Pasar Senen,Malang,2026-06-16,13:00,Ekonomi,164000,148,Tersedia,2008,18
+177,Jayabaya,Pasar Senen,Malang,2026-06-19,13:00,Ekonomi,218000,186,Tersedia,1976,50
+178,Argo Semeru,Gambir,Surabaya Gubeng,2026-06-04,07:30,Eksekutif,616000,55,Tersedia,2022,4
+179,Sembrani,Gambir,Surabaya Pasar Turi,2026-06-22,10:00,Eksekutif,408000,69,Tersedia,1995,31
+180,Mutiara Selatan,Bandung,Surabaya Gubeng,2026-06-07,20:00,Bisnis,310000,76,Tersedia,1970,56
+181,Argo Lawu,Gambir,Solo Balapan,2026-06-14,20:00,Eksekutif,441000,77,Tersedia,1997,29
+182,Kertajaya,Pasar Senen,Surabaya Pasar Turi,2026-06-25,08:00,Ekonomi,208000,143,Tersedia,2000,26
+183,Lodaya,Bandung,Solo Balapan,2026-06-28,14:00,Bisnis,195000,97,Tersedia,1995,31
+184,Fajar Utama Yogya,Pasar Senen,Yogyakarta,2026-06-12,10:00,Bisnis,158000,75,Tersedia,2004,22
+185,Sancaka,Yogyakarta,Surabaya Gubeng,2026-06-15,05:00,Bisnis,227000,117,Tersedia,1997,29
+186,Manahan,Gambir,Solo Balapan,2026-06-30,07:30,Eksekutif,442000,76,Tersedia,2021,5
+187,Joglosemarkerto,Solo Balapan,Semarang Tawang,2026-06-22,15:00,Eksekutif,161000,63,Tersedia,2020,6
+188,Sawunggalih,Pasar Senen,Kutoarjo,2026-06-03,09:30,Bisnis,174000,112,Tersedia,2000,26
+189,Malioboro Express,Malang,Yogyakarta,2026-06-03,17:00,Bisnis,267000,94,Tersedia,2010,16
+190,Kertanegara,Purwokerto,Malang,2026-06-20,18:00,Eksekutif,302000,76,Tersedia,2019,7
+191,Senja Utama Solo,Pasar Senen,Solo Balapan,2026-06-12,10:00,Ekonomi,158000,184,Tersedia,1988,38
+192,Matarmaja,Pasar Senen,Malang,2026-06-27,09:30,Ekonomi,168000,122,Tersedia,1992,34
+193,Pasundan,Kiaracondong,Surabaya Gubeng,2026-06-02,22:00,Ekonomi,107000,179,Tersedia,2001,25
+194,Gajahwong,Pasar Senen,Yogyakarta,2026-06-27,15:00,Ekonomi,141000,123,Tersedia,2005,21
+195,Pasundan,Kiaracondong,Surabaya Gubeng,2026-06-14,05:00,Ekonomi,111000,157,Tersedia,2001,25
+196,Argo Parahyangan,Gambir,Bandung,2026-06-14,18:00,Eksekutif,236000,69,Tersedia,1998,28
+197,Argo Lawu,Gambir,Solo Balapan,2026-06-28,08:00,Eksekutif,442000,62,Tersedia,1997,29
+198,Joglosemarkerto,Solo Balapan,Semarang Tawang,2026-06-04,05:00,Eksekutif,138000,72,Tersedia,2020,6
+199,Sawunggalih,Pasar Senen,Kutoarjo,2026-06-24,07:00,Bisnis,166000,116,Tersedia,2000,26
